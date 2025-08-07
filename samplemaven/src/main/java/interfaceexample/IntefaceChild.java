@@ -10,7 +10,8 @@ public void display2() {
 		obj.display();
 		obj.display1();
 		obj.display2();
-		InterfaceParent obj1 = new IntefaceChild();
+		InterfaceParent obj1 = new IntefaceChild();//interface reference cheyan patu because
+		//athu interface ayi anu crate cheythe anu class anekile obj patu create akan.
 		obj1.display();
 		obj1.display1();
 	}

@@ -9,6 +9,7 @@ public void display() {
 		HierarchialSon obj = new HierarchialSon();
 		obj.print();
 		obj.display();
+		
 	}
 
 }
